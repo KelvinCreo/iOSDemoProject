@@ -1,0 +1,318 @@
+TDemoProject
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Info.plist DemoProject/DemoProject-Info.plist
+cSymLink /Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app
+cProcessPCH /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch.pth DemoProject/DemoProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/main.o /Users/Kelvin/Desktop/DemoProject/DemoProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/AppDelegate.o /Users/Kelvin/Desktop/DemoProject/DemoProject/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/ViewController.o /Users/Kelvin/Desktop/DemoProject/DemoProject/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject normal i386
+cGenerateDSYMFile /Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app.dSYM /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject
+cCopyStringsFile /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/en.lproj/InfoPlist.strings DemoProject/en.lproj/InfoPlist.strings
+cCpResource DemoProject/Default.png Frank/frankified_build/./DemoProject.app/Default.png
+cCpResource DemoProject/Default@2x.png Frank/frankified_build/./DemoProject.app/Default@2x.png
+cCpResource DemoProject/Default-568h@2x.png Frank/frankified_build/./DemoProject.app/Default-568h@2x.png
+cCompileStoryboard /Users/Kelvin/Desktop/DemoProject/DemoProject/en.lproj/MainStoryboard.storyboard
+cTouch /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050F49C120000000000228FD0
+t1358208018
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050F49C1300000000003DCEF0
+t1358208019
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000502F1F3A00000000000015F7
+t1345265466
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050F49C170000000000000E8D
+t1358208023
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050F49C190000000000AB3D60
+t1358208025
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c0000000050F49C250000000000001B54
+t1358208037
+s6996
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/AppDelegate.m
+c000000005107073300000000000007D5
+t1359415091
+s2005
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/DemoProject-Prefix.pch
+c00000000510707330000000000000145
+t1359415091
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/ViewController.m
+c0000000051070928000000000000023C
+t1359415592
+s572
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/en.lproj/InfoPlist.strings
+c0000000051070733000000000000002D
+t1359415091
+s45
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/en.lproj/MainStoryboard.storyboard
+c0000000051070AD20000000000000BA7
+t1359416018
+s2983
+
+N/Users/Kelvin/Desktop/DemoProject/DemoProject/main.m
+c0000000051070733000000000000014E
+t1359415091
+s334
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Default.png
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Default@2x.png
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Info.plist
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/PkgInfo
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app.dSYM
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/DemoProject.LinkFileList
+c000000005107154B0000000000000188
+t1359418699
+s392
+
+N/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch.pth
+t2
+s0
+
+NDemoProject/DemoProject-Info.plist
+c000000005107073300000000000004D5
+t1359415091
+s1237
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4f5b7fcb4cb7b641^689589cb4cb7b641^---0#1#0#--18"Check dependencies36"96771254-2072-4003-8835-A8BC0AFD9BC9-
+
+CCompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/AppDelegate.o /Users/Kelvin/Desktop/DemoProject/DemoProject/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381111500.582613
+e381111500.771663
+r1
+xCompileC
+xbuild/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/AppDelegate.o
+x/Users/Kelvin/Desktop/DemoProject/DemoProject/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/Kelvin/Desktop/DemoProject/DemoProject/AppDelegate.mb07195cc4cb7b641^d28cc5cc4cb7b641^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/Kelvin/Desktop/DemoProject/DemoProject/AppDelegate.m0000000000000000^3862"CompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/AppDelegate.o DemoProject/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kelvin/Desktop/DemoProject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-generated-files.hmap -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-own-target-headers.hmap -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-all-target-headers.hmap -iquote /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-project-headers.hmap -I/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DerivedSources/i386 -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DerivedSources -F/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator -include /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/AppDelegate.dia -c /Users/Kelvin/Desktop/DemoProject/DemoProject/AppDelegate.m -o /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/AppDelegate.o36"544C4E07-2EED-41F6-BF2B-3F548301E08F-
+
+CCompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/ViewController.o /Users/Kelvin/Desktop/DemoProject/DemoProject/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381111500.582620
+e381111500.774044
+r1
+xCompileC
+xbuild/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/ViewController.o
+x/Users/Kelvin/Desktop/DemoProject/DemoProject/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/Kelvin/Desktop/DemoProject/DemoProject/ViewController.m836c95cc4cb7b641^e127c6cc4cb7b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/Kelvin/Desktop/DemoProject/DemoProject/ViewController.m0000000000000000^3880"CompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/ViewController.o DemoProject/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kelvin/Desktop/DemoProject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-generated-files.hmap -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-own-target-headers.hmap -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-all-target-headers.hmap -iquote /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-project-headers.hmap -I/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DerivedSources/i386 -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DerivedSources -F/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator -include /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/ViewController.dia -c /Users/Kelvin/Desktop/DemoProject/DemoProject/ViewController.m -o /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/ViewController.o36"2DFCC3C3-4EDE-453E-A37C-2FABC6770FC3-
+
+CCompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/main.o /Users/Kelvin/Desktop/DemoProject/DemoProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381111500.582601
+e381111500.758727
+r1
+xCompileC
+xbuild/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/main.o
+x/Users/Kelvin/Desktop/DemoProject/DemoProject/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/Kelvin/Desktop/DemoProject/DemoProject/main.md15a95cc4cb7b641^ee43c2cc4cb7b641^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/Kelvin/Desktop/DemoProject/DemoProject/main.m0000000000000000^3820"CompileC build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/main.o DemoProject/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kelvin/Desktop/DemoProject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-generated-files.hmap -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-own-target-headers.hmap -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-all-target-headers.hmap -iquote /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-project-headers.hmap -I/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DerivedSources/i386 -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DerivedSources -F/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator -include /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/main.dia -c /Users/Kelvin/Desktop/DemoProject/DemoProject/main.m -o /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/main.o36"DC277954-B2BD-4FCC-AE5E-81B6E7756FDD-
+
+CCompileStoryboard /Users/Kelvin/Desktop/DemoProject/DemoProject/en.lproj/MainStoryboard.storyboard
+s381111501.130130
+e381111503.131929
+r1
+xCompileStoryboard
+x/Users/Kelvin/Desktop/DemoProject/DemoProject/en.lproj/MainStoryboard.storyboard
+o2013-01-28 16:18:22.641 Interface Builder Cocoa Touch Tool[36627:f07] CFPreferences: user home directory at file://localhost/Users/Kelvin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard DemoProject/en.lproj/MainStoryboard.storyboard016b21cd4cb7b641^7fd921cf4cb7b641^-239"2013-01-28 16:18:22.641 Interface Builder Cocoa Touch Tool[36627:f07] CFPreferences: user home directory at file://localhost/Users/Kelvin/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Kelvin/Desktop/DemoProject/DemoProject/en.lproj/MainStoryboard.storyboard0000000000000000^1219"CompileStoryboard DemoProject/en.lproj/MainStoryboard.storyboard    cd /Users/Kelvin/Desktop/DemoProject    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/en.lproj/MainStoryboard.storyboardc /Users/Kelvin/Desktop/DemoProject/DemoProject/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"5B3EF170-E287-4F6B-8FB5-6F77D477B4A0-
+
+CCopyStringsFile /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/en.lproj/InfoPlist.strings DemoProject/en.lproj/InfoPlist.strings
+s381111501.124782
+e381111501.128957
+r1
+xCopyStringsFile
+x/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/en.lproj/InfoPlist.strings
+xDemoProject/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy DemoProject/en.lproj/InfoPlist.strings9f2120cd4cb7b641^a70321cd4cb7b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/Kelvin/Desktop/DemoProject/DemoProject/en.lproj/InfoPlist.strings0000000000000000^856"CopyStringsFile Frank/frankified_build/./DemoProject.app/en.lproj/InfoPlist.strings DemoProject/en.lproj/InfoPlist.strings    cd /Users/Kelvin/Desktop/DemoProject    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/en.lproj -- DemoProject/en.lproj/InfoPlist.strings36"1616F216-048E-4CF4-B958-6F5AAEF8849F-
+
+CCpResource DemoProject/Default-568h@2x.png Frank/frankified_build/./DemoProject.app/Default-568h@2x.png
+s381111501.124996
+e381111501.167681
+r1
+xCpResource
+xDemoProject/Default-568h@2x.png
+xFrank/frankified_build/./DemoProject.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Frank/frankified_build/./DemoProject.app/Default-568h@2x.png1d2020cd4cb7b641^80f32acd4cb7b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Default-568h@2x.png000000000080d041^880"CpResource "DemoProject/Default-568h@2x.png" "Frank/frankified_build/./DemoProject.app/Default-568h@2x.png"    cd /Users/Kelvin/Desktop/DemoProject    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Kelvin/Desktop/DemoProject/DemoProject/Default-568h@2x.png" /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app36"5C65C190-ED6E-4965-B2DE-5887BA1B9787-
+
+CCpResource DemoProject/Default.png Frank/frankified_build/./DemoProject.app/Default.png
+s381111501.124852
+e381111501.167464
+r1
+xCpResource
+xDemoProject/Default.png
+xFrank/frankified_build/./DemoProject.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy Frank/frankified_build/./DemoProject.app/Default.pngfb1f20cd4cb7b641^a4e32acd4cb7b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Default.png000000000080d041^850"CpResource DemoProject/Default.png Frank/frankified_build/./DemoProject.app/Default.png    cd /Users/Kelvin/Desktop/DemoProject    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Kelvin/Desktop/DemoProject/DemoProject/Default.png /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app36"7EF9A31C-F654-41B9-A02F-6CB34A250800-
+
+CCpResource DemoProject/Default@2x.png Frank/frankified_build/./DemoProject.app/Default@2x.png
+s381111501.124948
+e381111501.129083
+r1
+xCpResource
+xDemoProject/Default@2x.png
+xFrank/frankified_build/./DemoProject.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy Frank/frankified_build/./DemoProject.app/Default@2x.pngda1f20cd4cb7b641^410b21cd4cb7b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Default@2x.png000000000080d041^865"CpResource "DemoProject/Default@2x.png" "Frank/frankified_build/./DemoProject.app/Default@2x.png"    cd /Users/Kelvin/Desktop/DemoProject    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Kelvin/Desktop/DemoProject/DemoProject/Default@2x.png" /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app36"CA38076A-96BA-46BD-9F8D-F613AFFF6177-
+
+CGenerateDSYMFile /Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app.dSYM /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject
+s381111500.993738
+e381111501.116594
+r1
+xGenerateDSYMFile
+x/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app.dSYM
+x/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Generating /Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app.dSYMcc7dfecc4cb7b641^f5d91dcd4cb7b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app.dSYM000000000080d041^909"GenerateDSYMFile build/Debug-iphonesimulator/DemoProject.app.dSYM Frank/frankified_build/./DemoProject.app/DemoProject    cd /Users/Kelvin/Desktop/DemoProject    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject -o /Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app.dSYM36"C73F04FB-BD42-4BD6-8402-3A1D20636C6F-
+
+CLd /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject normal i386
+s381111500.781143
+e381111500.986595
+r1
+xLd
+x/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Link /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject151ec8cc4cb7b641^4293fccc4cb7b641^---0#0#0#--1560"Ld Frank/frankified_build/./DemoProject.app/DemoProject normal i386    cd /Users/Kelvin/Desktop/DemoProject    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator -L/Users/Kelvin/Desktop/DemoProject/Frank -F/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator -filelist /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/Objects-normal/i386/DemoProject.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -framework CFNetwork -framework Security -lShelley -lCocoaHTTPServer -lFrank -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/DemoProject36"53B34079-FE6E-49C1-B672-98631211D8A0-
+
+CProcessInfoPlistFile /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Info.plist DemoProject/DemoProject-Info.plist
+s381111499.542069
+e381111499.549040
+r1
+xProcessInfoPlistFile
+x/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Info.plist
+xDemoProject/DemoProject-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process DemoProject/DemoProject-Info.pliste9f28acb4cb7b641^f38d8ccb4cb7b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/Kelvin/Desktop/DemoProject/DemoProject/DemoProject-Info.plist0000000000000000^935"ProcessInfoPlistFile Frank/frankified_build/./DemoProject.app/Info.plist DemoProject/DemoProject-Info.plist    cd /Users/Kelvin/Desktop/DemoProject    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    builtin-infoPlistUtility DemoProject/DemoProject-Info.plist -genpkginfo /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app/Info.plist36"227F16FF-13A4-40F5-B5BD-4BC35947ECC8-
+
+CProcessPCH /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch.pth DemoProject/DemoProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381111499.559283
+e381111500.576005
+r1
+xProcessPCH
+x/var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch.pth
+xDemoProject/DemoProject-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile DemoProject/DemoProject-Prefix.pchb9528fcb4cb7b641^4f7693cc4cb7b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/Kelvin/Desktop/DemoProject/DemoProject/DemoProject-Prefix.pch0000000000000000^3880"ProcessPCH /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch.pth DemoProject/DemoProject-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kelvin/Desktop/DemoProject    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-generated-files.hmap -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-own-target-headers.hmap -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-all-target-headers.hmap -iquote /Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DemoProject-project-headers.hmap -I/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DerivedSources/i386 -I/Users/Kelvin/Desktop/DemoProject/build/DemoProject.build/Debug-iphonesimulator/DemoProject.build/DerivedSources -F/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch.dia -c /Users/Kelvin/Desktop/DemoProject/DemoProject/DemoProject-Prefix.pch -o /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/p7/g2l_fw2j3nvdrm8c_3ym5vvr0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/DemoProject-Prefix-ezppfahaedmyzzdxoffrejyjphdh/DemoProject-Prefix.pch.d36"1AC2B545-4363-4BE7-A404-F20517EEB7FB-
+
+CSymLink /Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app
+s381111499.542067
+e381111499.551778
+r1
+xSymLink
+x/Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app
+x/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.appa0fb8acb4cb7b641^85418dcb4cb7b641^---0#0#0#--779"SymLink build/Debug-iphonesimulator/DemoProject.app Frank/frankified_build/./DemoProject.app    cd /Users/Kelvin/Desktop/DemoProject    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    /bin/ln -sf /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app /Users/Kelvin/Desktop/DemoProject/build/Debug-iphonesimulator/DemoProject.app36"9A662286-10C8-434E-93DE-4573B0FC6694-
+
+CTouch /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app
+s381111503.140306
+e381111503.146918
+r1
+xTouch
+x/Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Touch /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.appc00624cf4cb7b641^ae9c25cf4cb7b641^---0#0#0#--661"Touch Frank/frankified_build/./DemoProject.app    cd /Users/Kelvin/Desktop/DemoProject    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/Kelvin/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/Kelvin/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/tools:/Users/Kelvin/adt-bundle-mac-x86_64/sdk/platform-tools/"    /usr/bin/touch -c /Users/Kelvin/Desktop/DemoProject/Frank/frankified_build/./DemoProject.app36"9CECEE2F-3203-484E-A519-B8C1435A7F7C-
+
